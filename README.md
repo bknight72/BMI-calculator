@@ -2,15 +2,12 @@
 
 BMI calculator made as part of a udemy course in learning Flutter. Main focus was on UI design and implementation. 
 
-## Getting Started
+Worth noting that I added cool gradient color schemes to the cards and also replaced the male/female toggle with a tractor/anchor toggle because its funny. 
 
-This project is a starting point for a Flutter application.
+## Final Product
+![bmi_ben](https://user-images.githubusercontent.com/79337953/130691727-5fcc8ef7-6e08-40f3-95a4-d938054ecb42.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Look at those really cool gradients
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
